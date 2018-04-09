@@ -1,1 +1,1 @@
-# This is the code for Digit Recogniser competition
+This is the code for Digit Recogniser competition
